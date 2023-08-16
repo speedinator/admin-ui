@@ -103,7 +103,7 @@ export const menu = [
           id: 1,
           title: "Charts",
           url: "/",
-          icon: "../../public/chart.svg",
+          icon: "../../chart.svg",
         },
         {
           id: 2,
