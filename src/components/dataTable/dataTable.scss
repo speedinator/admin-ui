@@ -1,0 +1,31 @@
+.dataTable {
+    
+    .dataGrid {
+        background-color: white;
+        padding: 20px;
+        // border: 1px solid red;
+        // color: red;
+
+    }
+
+    img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        object-fit: cover;
+
+
+    }
+    .action {
+        display: flex;
+        gap: 10px; 
+        width: 20px;
+        height: 20px;
+        img {
+                cursor: pointer;
+                width: 20px;
+                height: 20px;
+            }
+        
+    }
+}

@@ -1,0 +1,42 @@
+.dataTable {
+  // border: 1px solid red;
+  .dataGrid {
+    display: flex;
+    // color: red;
+    .MuiDataGrid-toolbarContainer.css-128fb87-MuiDataGrid-toolbarContainer {
+        // color: red;
+      display: flex;
+      flex-direction: row-reverse;
+    }
+}
+}
+.users {
+
+  .info {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+
+    button {
+      padding: 5px;
+      cursor: pointer;
+    }
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    .grid {
+      // height: 350px;
+      // width: 350px;
+      // border: red 1px solid;
+    }
+
+ 
+  }
+
+  
+}
